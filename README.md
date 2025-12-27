@@ -1,7 +1,9 @@
 # 🔐 SNEAKY-A-ROT13-Cipher-Tool
 A command-line Python project that implements the ROT13 substitution cipher, blending classic cryptography concepts with clean control flow, input handling, and a bit of personality.
 This project was built to reinforce string manipulation, loops, conditionals, and defensive programming, while also acknowledging the reality that ROT13 is more fun than secure.
+
 ---
+
 ## ✨ Technologies
   - Python 3
   - Standard Library only
